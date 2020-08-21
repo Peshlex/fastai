@@ -8,7 +8,7 @@
 
 ## Installing
 
-You can use fastai without any installation by using [Google Colab](https://colab.research.google.com/). In fact, every page of this documentation is also available as an interactive notebook - click "Open in colab" at the top of any page to open it (be sure to change the Colab runtime to "GPU" to have it run fast!) See the fast.ai course [Introduction to Colab](https://colab.research.google.com/) for more information.
+You can use fastai without any installation by using [Google Colab](https://colab.research.google.com/) or [Paperspace Gradient](https://gradient.paperspace.com). In fact, every page of this documentation is also available as an interactive notebook - click "Open in colab" or "Launch on Gradient" at the top of any page to open it (be sure to change the Colab runtime to "GPU" to have it run fast or "Free-P5000" on Gradient!) See the fast.ai course [Introduction to Colab](https://colab.research.google.com/) for more information.
 
 You can install fastai on your own machines with conda (highly recommended; requires [Anaconda](https://www.anaconda.com/products/individual) or [miniconda](https://docs.conda.io/en/latest/miniconda.html)): `conda install -c fastai -c pytorch fastai`, or with pip: `pip install fastai`. If you install with pip, you should install PyTorch first by following the PyTorch [installation instructions](https://pytorch.org/get-started/locally/).
 
